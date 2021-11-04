@@ -1,0 +1,20 @@
+PODS:
+  - LookinServer (1.0.4)
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - LookinServer
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - LookinServer
+    - SnapKit
+
+SPEC CHECKSUMS:
+  LookinServer: 743c1681771d0a8dcc38825325a080c3186404a5
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: 034ecb0e8cfed478b29191ec41ac48e1807dfc7f
+
+COCOAPODS: 1.10.1
